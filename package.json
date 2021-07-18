@@ -1,0 +1,23 @@
+{
+  "name": "node-sqlite-updater",
+  "version": "1.0.0",
+  "description": "a tool for sqlite datebase upgrade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd example & npm install & npm start"
+  },
+  "keywords": [
+    "sqlite3",
+    "nodejs",
+    "typescript",
+    "typeorm"
+  ],
+  "author": "zhujm",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sqlite3": "^3.1.7",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.0.2",
+    "typescript": "^3.9.10"
+  }
+}
