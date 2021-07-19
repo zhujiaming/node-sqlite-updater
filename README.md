@@ -2,6 +2,12 @@
 
 > 基于nodejs的客户端或服务端使用sqlite3时，对数据库文件进行版本管理升级的辅助工具库，对Electron+sqlite3+typeorm应用友好。
 
+### 接入
+
+```powershell
+npm i node-sqlite-updater
+```
+
 ### 使用
 
 ```javascript
